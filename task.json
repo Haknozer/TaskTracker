@@ -1,0 +1,9 @@
+[
+    {
+        "id": 2,
+        "description": "deneme1",
+        "status": true,
+        "createdAt": "10/20/24",
+        "updateAt": "10/20/24"
+    }
+]
